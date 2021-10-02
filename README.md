@@ -1,7 +1,5 @@
 # Hello, World!
 
-## Welcome to my blog where I try to decipher life:)
-
 <!---
 ## Welcome to GitHub Pages
 
