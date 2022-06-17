@@ -11,10 +11,10 @@ Focus Areas <br>
 `Multimedia Information Retrival` `Database Systems` 
 
 ### Experience
-1. Software Engineer Intern @ GAOGAO pte ltd <br>
+1. Software Engineer Intern @ GAOGAO Pte Ltd <br>
 	_Work on DAO management application features with my team members. Learnt about blockchain and Web3 to understand the project better and handle smart contracts._
 
-2. Student Frontend Engineer @  RHDEVs <br>
+2. Student Frontend Engineer @ RHDEVs <br>
   _Work with design and backend team to implement new features in hall web application. Work on implementing CCA website and guiding juniors in frontend work. Learnt about web applications gain interest in frontend development._
 
 3. Intern @ DSO <br>
@@ -36,6 +36,7 @@ Focus Areas <br>
 
 - **Boosters** <br>
 `Git` `Node.js` `TypeScript`
+
 <!---
 ## Welcome to GitHub Pages
 
