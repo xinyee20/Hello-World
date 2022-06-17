@@ -1,8 +1,8 @@
-# Lau Xin Yee
 
+## Hi Welcome to the page
 
-
-Here are some things to know about **Xin Yee** -
+Here are some things to know about **Xin Yee** - <br>
+`Lau Xin Yee`
 
 Course <br>
 `Computer Science` `Y4` `NUS` <br><br>
