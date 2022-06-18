@@ -1275,10 +1275,10 @@ input, select, textarea {
 				content: '';
 				display: block;
 				position: absolute;
-				bottom: calc(-3.5rem - 1px);
-				left: calc(50% - 1px);
+				bottom: -3.5rem;
+				left: calc(50% - 0.7px);
 				width: 1px;
-				height: calc(3.5rem + 1px);
+				height: 3.5rem;
 				background: #ffffff;
 			}
 
